@@ -7,7 +7,7 @@
 | These details are used in emails sent by authentication library.
 |--------------------------------------------------------------------------
 */
-$config['website_name'] = 'Your project';
+$config['website_name'] = 'Amda';
 $config['webmaster_email'] = 'webmaster@your-site.com';
 
 /*
@@ -126,7 +126,7 @@ $config['captcha_case_sensitive'] = TRUE;
 | You can get reCAPTCHA keys by registering at http://recaptcha.net
 |--------------------------------------------------------------------------
 */
-$config['use_recaptcha'] = FALSE;
+$config['use_recaptcha'] = TRUE;
 $config['recaptcha_public_key'] = '';
 $config['recaptcha_private_key'] = '';
 
